@@ -1,4 +1,4 @@
-# Plant Watering System Using Mathlab and Arduino Grove Board
+# Automated Plant Watering System in MATLAB
 
 
 ## Context 
