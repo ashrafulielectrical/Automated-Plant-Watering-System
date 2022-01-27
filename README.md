@@ -1,4 +1,4 @@
-# Automated Plant Watering System
+# Plant Watering System Using Mathlab and Arduino Grove Board
 
 
 ## Context 
