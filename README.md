@@ -11,7 +11,7 @@ This idea was originated from a a project that we had done earlier in the semest
 
 ![App Screenshot](https://media.giphy.com/media/w6kq9zq2x0usB4EdO9/giphy.gif)
 
-Components Used in Project: 
+#### Components Used in Project: 
 
 * `Arduino Grove Board`
 * `Arduino MOSFET`
