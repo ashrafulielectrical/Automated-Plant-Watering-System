@@ -12,7 +12,7 @@ This idea was originated from a a project that we had done earlier in the semest
 ![App Screenshot](https://media.giphy.com/media/w6kq9zq2x0usB4EdO9/giphy.gif)
 
 #### Components Used in Project: 
-
+```
 * Arduino Grove Board
 * Arduino MOSFET
 * Water Pump & Plastic Tube
@@ -20,7 +20,7 @@ This idea was originated from a a project that we had done earlier in the semest
 * Rotary Potentiometer
 * LED Light & Buzzer
 * Plant
-
+```
 *The following diagram shows how the components are connected in the system*
 
 ![App Screenshot](https://i.imgur.com/qKzjl6S.png)
