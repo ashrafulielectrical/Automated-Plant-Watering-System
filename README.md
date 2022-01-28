@@ -13,13 +13,13 @@ This idea was originated from a a project that we had done earlier in the semest
 
 #### Components Used in Project: 
 
-* `Arduino Grove Board`
-* `Arduino MOSFET`
-* `Water Pump & Plastic Tube`
-* `Light Sensor`
-* `Rotary Potentiometer`
-* `LED Light` 
-* `Buzzer` 
+* Arduino Grove Board
+* Arduino MOSFET
+* Water Pump & Plastic Tube
+* Light Sensor
+* Rotary Potentiometer
+* LED Light & Buzzer
+* Plant
 
 *The following diagram shows how the components are connected in the system*
 
