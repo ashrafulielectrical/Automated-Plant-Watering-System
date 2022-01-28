@@ -15,7 +15,7 @@ This idea was originated from a a project that we had done earlier in the semest
 
 * `Arduino Grove Board`
 * `Arduino MOSFET`
-* `Water Pump`
+* `Water Pump & Plastic Tube`
 * `Light Sensor`
 * `Rotary Potentiometer`
 * `LED Light` 
